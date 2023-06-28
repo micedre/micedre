@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/micedre?cardType=octocat&theme=gruvbox)](https://git.io/awesome-stats-card)
+
+🏆 Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
